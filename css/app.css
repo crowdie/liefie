@@ -1,0 +1,24 @@
+body {
+  background: #c7282a;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+  font:30px;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.5;
+  position: relative;
+  cursor: auto; 
+ height:100%}
+  html, body{
+  height:100%;
+}
+.row
+{
+
+
+  height:100%;
+margin-bottom: 100px;
+margin-bottom: 50px;
+}
